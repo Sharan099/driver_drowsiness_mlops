@@ -1,0 +1,10 @@
+# Ignore raw dataset folder
+data/raw
+
+# Ignore large dataset files
+*.zip
+*.csv
+*.h5
+
+# Ignore images
+*.png
