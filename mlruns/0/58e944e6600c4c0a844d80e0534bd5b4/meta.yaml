@@ -1,0 +1,14 @@
+artifact_uri: file:///H:/python/Driver_drowsiness_mlops/mlruns/0/58e944e6600c4c0a844d80e0534bd5b4/artifacts
+end_time: 1762756406968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58e944e6600c4c0a844d80e0534bd5b4
+run_name: dapper-asp-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762683306017
+status: 4
+tags: []
+user_id: HP

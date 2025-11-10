@@ -1,0 +1,14 @@
+artifact_uri: file:///H:/python/Driver_drowsiness_mlops/mlruns/0/9e3f968fb8c44fd4b3fd9169c494483f/artifacts
+end_time: 1762682673712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e3f968fb8c44fd4b3fd9169c494483f
+run_name: dapper-goose-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762682671431
+status: 4
+tags: []
+user_id: HP
